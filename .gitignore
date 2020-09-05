@@ -1,0 +1,6 @@
+# These folders/files are used in the project but are not being backed in Git or uploaded to GitHub.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
