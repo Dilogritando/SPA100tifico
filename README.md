@@ -3,9 +3,11 @@
 Descripción: Este fue un proyecto generado en [Next.js](https://nextjs.org/) utilizando [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 Propósito:
+- Hacer una SPA (Single PAge Application)
+- Integrar un API
 
 ## Como guías de estilo y estructura se tuvieron en cuenta:
-
+- API utilizada para el proyecto: https://rickandmortyapi.com/
 
 <!-- ## Requisitos y condiciones del proyecto
 - Propuesta de UX
@@ -28,6 +30,6 @@ yarn dev
 - Windows 10 *Browser: Mozilla Firefox Versión 79.0 (64-bit)*
 
 ## Fecha de actualización:
-Sept 2020
+Nov 2020
 
 Abrir [http://localhost:3000](http://localhost:3000) en el navegador para ver el resultado.
